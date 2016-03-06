@@ -1,3 +1,4 @@
 Dia 1
 Introduccion
 - GIT
+- ya quiero que empiece JAVA JDBC
